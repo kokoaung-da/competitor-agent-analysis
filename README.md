@@ -9,6 +9,7 @@
 
 ![Alt text](https://raw.githubusercontent.com/kokoaung-da/competitor-agent-analysis/main/wave_money_agent_list_pdf_structure.png)
 
+
 **Region wise Agent Analysis**
 - Timeline: updated February 2025
 
