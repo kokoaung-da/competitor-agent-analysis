@@ -7,6 +7,10 @@
 
 ![Alt text](https://raw.githubusercontent.com/kokoaung-da/competitor-agent-analysis/main/agent_analysis_excel_dashboard_overview.png)
 
+![Alt text](https://raw.githubusercontent.com/kokoaung-da/competitor-agent-analysis/blob/main/agent_analysis_excel_dashboard_details_1.png)
+
+[Alt text](https://raw.githubusercontent.com/kokoaung-da/competitor-agent-analysis/blob/main/agent_analysis_excel_dashboard_details_2.png)
+
 
  **Key Findings & Insights**
 
