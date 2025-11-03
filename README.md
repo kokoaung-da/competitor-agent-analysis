@@ -5,6 +5,9 @@
 - Conducted **exploratory data analysis** to evaluate **agent distribution by region and township**, including detailed insights on agent names, shop names, and addresses.
 - Designed an **interactive Excel dashboard** to visualize regional and township-level agent distribution, enabling easier competitor tracking and decision-making.
 
+![Alt text](https://raw.githubusercontent.com/kokoaung-da/competitor-agent-analysis/main/agent_analysis_excel_dashboard_overview.png)
+
+
  **Key Findings & Insights**
 
 - **Nationwide Presence:**
